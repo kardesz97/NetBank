@@ -1,0 +1,2874 @@
+les Escaldes	Andorra
+Andorra la Vella	Andorra
+Dubai	United Arab Emirates
+Dibba Al-Fujairah	United Arab Emirates
+Ar Ruways	United Arab Emirates
+Ajman	United Arab Emirates
+Adh Dhayd	United Arab Emirates
+Abu Dhabi	United Arab Emirates
+Shibirghān	Afghanistan
+Shahrak	Afghanistan
+Sar-e Pul	Afghanistan
+Sang-e Chārak	Afghanistan
+Pul-e Khumrī	Afghanistan
+Paghmān	Afghanistan
+Nahrīn	Afghanistan
+Kushk	Afghanistan
+Kunduz	Afghanistan
+Kabul	Afghanistan
+Gardēz	Afghanistan
+Fayzabad	Afghanistan
+Farah	Afghanistan
+Bāzārak	Afghanistan
+Saint John’s	Antigua and Barbuda
+The Valley	Anguilla
+Burrel	Albania
+Vlorë	Albania
+Tirana	Albania
+Laç	Albania
+Kuçovë	Albania
+Yerevan	Armenia
+Ejmiatsin	Armenia
+Spitak	Armenia
+Sevan	Armenia
+Masis	Armenia
+Vanadzor	Armenia
+Luau	Angola
+Uíge	Angola
+Malanje	Angola
+Luanda	Angola
+Menongue	Angola
+Tigre	Argentina
+Tandil	Argentina
+Santa Elena	Argentina
+San Pedro	Argentina
+San Luis del Palmar	Argentina
+Resistencia	Argentina
+Reconquista	Argentina
+Quilmes	Argentina
+Puerto Rico	Argentina
+Puerto Iguazú	Argentina
+Oberá	Argentina
+Necochea	Argentina
+Mercedes	Argentina
+Mar del Plata	Argentina
+Gualeguaychú	Argentina
+Gualeguay	Argentina
+Formosa	Argentina
+Fontana	Argentina
+Federal	Argentina
+Esquina	Argentina
+Concordia	Argentina
+Colegiales	Argentina
+Chajarí	Argentina
+Campana	Argentina
+Buenos Aires	Argentina
+Zapala	Argentina
+Yerba Buena	Argentina
+Viedma	Argentina
+Victoria	Argentina
+Vera	Argentina
+Tres Isletas	Argentina
+Santiago del Estero	Argentina
+Santa Rosa	Argentina
+Santa Lucía	Argentina
+San Pedro	Argentina
+San Nicolás de los Arroyos	Argentina
+San Jorge	Argentina
+San Francisco	Argentina
+San Fernando del Valle de Catamarca	Argentina
+Quitilipi	Argentina
+Punta Alta	Argentina
+Puerto Madryn	Argentina
+Presidencia Roque Sáenz Peña	Argentina
+Pocito	Argentina
+Neuquén	Argentina
+Las Breñas	Argentina
+Deán Funes	Argentina
+Cutral-Có	Argentina
+Cruz del Eje	Argentina
+Pago Pago	American Samoa
+Wolfsberg	Austria
+Wiener Neustadt	Austria
+Vienna	Austria
+Wels	Austria
+Weinzierl bei Krems	Austria
+Villach	Austria
+Traun	Austria
+Salzburg	Austria
+Saalfelden am Steinernen Meer	Austria
+Mödling	Austria
+Lustenau	Austria
+Linz	Austria
+Leonding	Austria
+Leoben	Austria
+Kufstein	Austria
+Kapfenberg	Austria
+Innsbruck	Austria
+Graz	Austria
+Feldkirch	Austria
+Baden	Austria
+Amstetten	Austria
+Rockingham	Australia
+Perth	Australia
+Kalgoorlie	Australia
+Darwin	Australia
+Busselton	Australia
+Bunbury	Australia
+Wagga Wagga	Australia
+Traralgon	Australia
+Townsville	Australia
+Sydney	Australia
+Surfers Paradise	Australia
+Sunnybank	Australia
+Richmond	Australia
+Echuca	Australia
+Earlwood	Australia
+Coburg	Australia
+Canberra	Australia
+Camberwell	Australia
+Caloundra	Australia
+Cairns	Australia
+Caboolture	Australia
+Burnie	Australia
+Bundaberg	Australia
+Buderim	Australia
+Brunswick	Australia
+Broken Hill	Australia
+Brisbane	Australia
+Ashfield	Australia
+Armidale	Australia
+Albury	Australia
+Carnegie	Australia
+Malvern East	Australia
+Brighton East	Australia
+Booval	Australia
+St Albans	Australia
+Endeavour Hills	Australia
+Clayton	Australia
+Taylors Lakes	Australia
+Roxburgh Park	Australia
+Wyndham Vale	Australia
+Willetton	Australia
+Babijn	Aruba
+Angochi	Aruba
+Mariehamn	Aland Islands
+Xankandi	Azerbaijan
+Əhmədbəyli	Azerbaijan
+Shushi	Azerbaijan
+Salyan	Azerbaijan
+Saatlı	Azerbaijan
+Zabrat	Azerbaijan
+Yevlakh	Azerbaijan
+Yelenendorf	Azerbaijan
+Xaçmaz	Azerbaijan
+Ujar	Azerbaijan
+Terter	Azerbaijan
+Sumqayıt	Azerbaijan
+Mingelchaur	Azerbaijan
+Maştağa	Azerbaijan
+Mardakan	Azerbaijan
+Lökbatan	Azerbaijan
+Bakıxanov	Azerbaijan
+Zenica	Bosnia and Herzegovina
+Visoko	Bosnia and Herzegovina
+Velika Kladuša	Bosnia and Herzegovina
+Tuzla	Bosnia and Herzegovina
+Trebinje	Bosnia and Herzegovina
+Travnik	Bosnia and Herzegovina
+Sarajevo	Bosnia and Herzegovina
+Prijedor	Bosnia and Herzegovina
+Mostar	Bosnia and Herzegovina
+Gradačac	Bosnia and Herzegovina
+Gračanica	Bosnia and Herzegovina
+Goražde	Bosnia and Herzegovina
+Bridgetown	Barbados
+Thākurgaon	Bangladesh
+Teknāf	Bangladesh
+Tungi	Bangladesh
+Sylhet	Bangladesh
+Pirojpur	Bangladesh
+Panchagarh	Bangladesh
+Patiya	Bangladesh
+Parbatipur	Bangladesh
+Kushtia	Bangladesh
+Kālīganj	Bangladesh
+Jhingergācha	Bangladesh
+Joypur Hāt	Bangladesh
+Ishurdi	Bangladesh
+Habiganj	Bangladesh
+Gaurnadi	Bangladesh
+Gafargaon	Bangladesh
+Bājitpur	Bangladesh
+Badarganj	Bangladesh
+Narail	Bangladesh
+Tungipāra	Bangladesh
+Sarishābāri	Bangladesh
+Sakhipur	Bangladesh
+Raojān	Bangladesh
+Phultala	Bangladesh
+Cox’s Bāzār	Bangladesh
+Khulna	Bangladesh
+Bhola	Bangladesh
+Barisāl	Bangladesh
+Jessore	Bangladesh
+Pābna	Bangladesh
+Zottegem	Belgium
+Zonhoven	Belgium
+Zoersel	Belgium
+Zemst	Belgium
+Zele	Belgium
+Zedelgem	Belgium
+Zaventem	Belgium
+Wuustwezel	Belgium
+Tournai	Belgium
+Torhout	Belgium
+Tongeren	Belgium
+Tienen	Belgium
+Tielt	Belgium
+Rotselaar	Belgium
+Ronse	Belgium
+Roeselare	Belgium
+Rixensart	Belgium
+Riemst	Belgium
+Ranst	Belgium
+Quaregnon	Belgium
+Puurs	Belgium
+Putte	Belgium
+Poperinge	Belgium
+Pont-à-Celles	Belgium
+Péruwelz	Belgium
+Peer	Belgium
+Overijse	Belgium
+Oupeye	Belgium
+Oudenaarde	Belgium
+Oostkamp	Belgium
+Ostend	Belgium
+Nivelles	Belgium
+Marche-en-Famenne	Belgium
+Manage	Belgium
+Maldegem	Belgium
+Maasmechelen	Belgium
+Maaseik	Belgium
+Louvain-la-Neuve	Belgium
+Londerzeel	Belgium
+Lommel	Belgium
+Lokeren	Belgium
+Knokke-Heist	Belgium
+Kasterlee	Belgium
+Kapellen	Belgium
+Kalmthout	Belgium
+Izegem	Belgium
+Ieper	Belgium
+Huy	Belgium
+Houthalen	Belgium
+Hoogstraten	Belgium
+Geraardsbergen	Belgium
+Gent	Belgium
+Genk	Belgium
+Gembloux	Belgium
+Geel	Belgium
+Frameries	Belgium
+Fleurus	Belgium
+Fléron	Belgium
+Flémalle-Haute	Belgium
+Evergem	Belgium
+Eupen	Belgium
+Essen	Belgium
+Colfontaine	Belgium
+Chaudfontaine	Belgium
+Châtelet	Belgium
+Chasse Royale	Belgium
+Charleroi	Belgium
+Brussels	Belgium
+Brugge	Belgium
+Brecht	Belgium
+Brasschaat	Belgium
+Braine-le-Comte	Belgium
+Braine-l'Alleud	Belgium
+Beerse	Belgium
+Balen	Belgium
+Ath	Belgium
+Titao	Burkina Faso
+Tenkodogo	Burkina Faso
+Réo	Burkina Faso
+Pô	Burkina Faso
+Ouahigouya	Burkina Faso
+Djibo	Burkina Faso
+Diapaga	Burkina Faso
+Dédougou	Burkina Faso
+Boussé	Burkina Faso
+Boulsa	Burkina Faso
+Bobo-Dioulasso	Burkina Faso
+Banfora	Burkina Faso
+Gaoua	Burkina Faso
+Orodara	Burkina Faso
+Yambol	Bulgaria
+Shumen	Bulgaria
+Sevlievo	Bulgaria
+Sandanski	Bulgaria
+Samokov	Bulgaria
+Ruse	Bulgaria
+Razgrad	Bulgaria
+Rakovski	Bulgaria
+Karlovo	Bulgaria
+Gotse Delchev	Bulgaria
+Gorna Oryakhovitsa	Bulgaria
+Gabrovo	Bulgaria
+Dimitrovgrad	Bulgaria
+Chirpan	Bulgaria
+Cherven Bryag	Bulgaria
+Burgas	Bulgaria
+Botevgrad	Bulgaria
+Blagoevgrad	Bulgaria
+Berkovitsa	Bulgaria
+Dār Kulayb	Bahrain
+Al Muharraq	Bahrain
+Manama	Bahrain
+Ar Rifā‘	Bahrain
+Makamba	Burundi
+Bururi	Burundi
+Bujumbura	Burundi
+Muramvya	Burundi
+Gitega	Burundi
+Rutana	Burundi
+Tchaourou	Benin
+Tanguiéta	Benin
+Savé	Benin
+Savalou	Benin
+Comé	Benin
+Bohicon	Benin
+Bembèrèkè	Benin
+Bassila	Benin
+Banikoara	Benin
+Aplahoué	Benin
+Allada	Benin
+Abomey-Calavi	Benin
+Abomey	Benin
+Gustavia	Saint Barthelemy
+Hamilton	Bermuda
+Tutong	Brunei
+Seria	Brunei
+Bandar Seri Begawan	Brunei
+Yacuiba	Bolivia
+Warnes	Bolivia
+Villazón	Bolivia
+Villa Yapacaní	Bolivia
+Villamontes	Bolivia
+La Paz	Bolivia
+Huanuni	Bolivia
+Guayaramerín	Bolivia
+Cotoca	Bolivia
+Cochabamba	Bolivia
+Cobija	Bolivia
+Camiri	Bolivia
+Kralendijk	Bonaire, Saint Eustatius and Saba
+Vitória do Mearim	Brazil
+Vitória de Santo Antão	Brazil
+Viseu	Brazil
+Conde	Brazil
+Vigia	Brazil
+Viçosa do Ceará	Brazil
+Tucumã	Brazil
+Trindade	Brazil
+Trairi	Brazil
+Toritama	Brazil
+Tomé Açu	Brazil
+Timon	Brazil
+Timbiras	Brazil
+Sobral	Brazil
+Sirinhaém	Brazil
+Sertânia	Brazil
+Serra Talhada	Brazil
+Senador Pompeu	Brazil
+Satuba	Brazil
+São Raimundo Nonato	Brazil
+São Miguel dos Campos	Brazil
+São Domingos do Maranhão	Brazil
+São Bento	Brazil
+São Bento	Brazil
+Santa Rita	Brazil
+Recife	Brazil
+Quixeramobim	Brazil
+Quixadá	Brazil
+Presidente Dutra	Brazil
+Santana	Brazil
+Porto Calvo	Brazil
+Pedro II	Brazil
+Pedra Branca	Brazil
+Paulo Afonso	Brazil
+Paulista	Brazil
+Patos	Brazil
+Parnamirim	Brazil
+Parnaíba	Brazil
+Parintins	Brazil
+Parelhas	Brazil
+Natal	Brazil
+Murici	Brazil
+Moreno	Brazil
+Morada Nova	Brazil
+Monteiro	Brazil
+Monte Alegre	Brazil
+Mombaça	Brazil
+Macapá	Brazil
+Macaíba	Brazil
+Limoeiro do Norte	Brazil
+Limoeiro	Brazil
+Lavras da Mangabeira	Brazil
+Lajedo	Brazil
+Lago da Pedra	Brazil
+Lagoa do Itaenga	Brazil
+Juazeiro do Norte	Brazil
+José de Freitas	Brazil
+João Pessoa	Brazil
+Ipubi	Brazil
+Ipu	Brazil
+Ipojuca	Brazil
+Imperatriz	Brazil
+Iguatu	Brazil
+Igarapé Miri	Brazil
+Igarapé Açu	Brazil
+Floresta	Brazil
+Eusébio	Brazil
+Extremoz	Brazil
+Estreito	Brazil
+Esperantina	Brazil
+Esperança	Brazil
+Escada	Brazil
+Dom Pedro	Brazil
+Demerval Lobão	Brazil
+Delmiro Gouveia	Brazil
+Custódia	Brazil
+Cururupu	Brazil
+Currais Novos	Brazil
+Cupira	Brazil
+Camocim	Brazil
+Cametá	Brazil
+Cajueiro	Brazil
+Cajazeiras	Brazil
+Belém	Brazil
+Beberibe	Brazil
+Bayeux	Brazil
+Baturité	Brazil
+Barreiros	Brazil
+Barreirinhas	Brazil
+Araguaína	Brazil
+Aracati	Brazil
+Aquiraz	Brazil
+Apodi	Brazil
+Ananindeua	Brazil
+Açu	Brazil
+Acopiara	Brazil
+Acaraú	Brazil
+Abreu e Lima	Brazil
+Abaetetuba	Brazil
+Xique Xique	Brazil
+Viamão	Brazil
+Vespasiano	Brazil
+Veranópolis	Brazil
+Vera Cruz	Brazil
+Wenceslau Braz	Brazil
+Venâncio Aires	Brazil
+Três Lagoas	Brazil
+Três de Maio	Brazil
+Taquaritinga	Brazil
+Taquari	Brazil
+Serra Negra	Brazil
+Serrana	Brazil
+Serra	Brazil
+Seropédica	Brazil
+Senhor do Bonfim	Brazil
+Senador Canedo	Brazil
+Seabra	Brazil
+Schroeder	Brazil
+Saubara	Brazil
+Sarzedo	Brazil
+Sarandi	Brazil
+Sarandi	Brazil
+Saquarema	Brazil
+São Mateus do Sul	Brazil
+São Mateus	Brazil
+São Marcos	Brazil
+São Manuel	Brazil
+São Luiz Gonzaga	Brazil
+São Luís de Montes Belos	Brazil
+São Lourenço do Sul	Brazil
+São Lourenço	Brazil
+São Leopoldo	Brazil
+São José dos Pinhais	Brazil
+São José dos Campos	Brazil
+São João da Barra	Brazil
+Santos	Brazil
+Santo Estêvão	Brazil
+Santo Antônio do Monte	Brazil
+Santo Antônio do Amparo	Brazil
+Santo Antônio de Posse	Brazil
+Santo Antônio de Pádua	Brazil
+Santo Antônio de Jesus	Brazil
+Santo Antônio da Platina	Brazil
+Santo Ângelo	Brazil
+Santo André	Brazil
+Santa Helena de Goiás	Brazil
+Santa Gertrudes	Brazil
+Santa Fé do Sul	Brazil
+Santa Cruz do Sul	Brazil
+Santa Cruz do Rio Pardo	Brazil
+Santa Cruz das Palmeiras	Brazil
+Rio Grande da Serra	Brazil
+Rio Grande	Brazil
+Rio do Sul	Brazil
+Rio de Janeiro	Brazil
+Rio das Pedras	Brazil
+Propriá	Brazil
+Promissão	Brazil
+Presidente Venceslau	Brazil
+Presidente Prudente	Brazil
+Presidente Epitácio	Brazil
+Prata	Brazil
+Praia Grande	Brazil
+Prado	Brazil
+Piúma	Brazil
+Piuí	Brazil
+Pitangui	Brazil
+Peruíbe	Brazil
+Pereira Barreto	Brazil
+Perdões	Brazil
+Penha	Brazil
+Penedo	Brazil
+Penápolis	Brazil
+Pelotas	Brazil
+Paraguaçu	Brazil
+Pará de Minas	Brazil
+Paracatu	Brazil
+Nova Odessa	Brazil
+Nova Lima	Brazil
+Nova Iguaçu	Brazil
+Nova Granada	Brazil
+Nova Friburgo	Brazil
+Nova Era	Brazil
+Nossa Senhora do Socorro	Brazil
+Nossa Senhora da Glória	Brazil
+Niterói	Brazil
+Niquelândia	Brazil
+Nilópolis	Brazil
+Nerópolis	Brazil
+Nepomuceno	Brazil
+Marialva	Brazil
+Marechal Cândido Rondon	Brazil
+Marau	Brazil
+Livramento do Brumado	Brazil
+Lins	Brazil
+Júlio de Castilhos	Brazil
+Juiz de Fora	Brazil
+Juatuba	Brazil
+José Bonifácio	Brazil
+Joinville	Brazil
+João Pinheiro	Brazil
+Jandira	Brazil
+Jandaia do Sul	Brazil
+Janaúba	Brazil
+Ituberá	Brazil
+Itu	Brazil
+Itororó	Brazil
+Itaúna	Brazil
+Itatinga	Brazil
+Itaocara	Brazil
+Itanhaém	Brazil
+Itambé	Brazil
+Itamarandiba	Brazil
+Itamaraju	Brazil
+Itajuípe	Brazil
+Itajubá	Brazil
+Itajaí	Brazil
+Itaí	Brazil
+Itaguaí	Brazil
+Itabuna	Brazil
+Ilhéus	Brazil
+Ilha Solteira	Brazil
+Ilhabela	Brazil
+Ijuí	Brazil
+Iguape	Brazil
+Igrejinha	Brazil
+Igarapé	Brazil
+Igarapava	Brazil
+Igaraçu do Tietê	Brazil
+Guaratinguetá	Brazil
+Guararema	Brazil
+Guararapes	Brazil
+Guarapuava	Brazil
+Guarapari	Brazil
+Guaranésia	Brazil
+Guaramirim	Brazil
+Garça	Brazil
+Gandu	Brazil
+Frutal	Brazil
+Frederico Westphalen	Brazil
+Feira de Santana	Brazil
+Farroupilha	Brazil
+Euclides da Cunha	Brazil
+Estrela	Brazil
+Esteio	Brazil
+Dois Vizinhos	Brazil
+Dois Córregos	Brazil
+Divinópolis	Brazil
+Diamantino	Brazil
+Diamantina	Brazil
+Diadema	Brazil
+Descalvado	Brazil
+Curvelo	Brazil
+Cordeirópolis	Brazil
+Cordeiro	Brazil
+Contagem	Brazil
+Conselheiro Lafaiete	Brazil
+Congonhas	Brazil
+Conde	Brazil
+Concórdia	Brazil
+Conchal	Brazil
+Conceição do Coité	Brazil
+Conceição do Jacuípe	Brazil
+Conceição das Alagoas	Brazil
+Conceição da Feira	Brazil
+Castro	Brazil
+Castelo	Brazil
+Cassilândia	Brazil
+Casimiro de Abreu	Brazil
+Cascavel	Brazil
+Casa Branca	Brazil
+Carmo do Paranaíba	Brazil
+Canavieiras	Brazil
+Campo Verde	Brazil
+Campos Novos	Brazil
+Campos Gerais	Brazil
+Campos do Jordão	Brazil
+Campos Belos	Brazil
+Cachoeiro de Itapemirim	Brazil
+Cachoeirinha	Brazil
+Cachoeiras de Macacu	Brazil
+Cachoeira do Sul	Brazil
+Cachoeira	Brazil
+Caçapava do Sul	Brazil
+Caçapava	Brazil
+Caçador	Brazil
+Cabreúva	Brazil
+Cabo Frio	Brazil
+Butiá	Brazil
+Buritizeiro	Brazil
+Buritis	Brazil
+Blumenau	Brazil
+Biritiba Mirim	Brazil
+Birigui	Brazil
+Biguaçu	Brazil
+Betim	Brazil
+Bertioga	Brazil
+Bento Gonçalves	Brazil
+Belo Oriente	Brazil
+Araguari	Brazil
+Aragarças	Brazil
+Araçuaí	Brazil
+Aracruz	Brazil
+Araçoiaba da Serra	Brazil
+Araci	Brazil
+Araçatuba	Brazil
+Aracaju	Brazil
+Aquidauana	Brazil
+Apucarana	Brazil
+Apiaí	Brazil
+Aparecida do Taboado	Brazil
+Aparecida	Brazil
+Antonina	Brazil
+Anicuns	Brazil
+Angra dos Reis	Brazil
+Andradina	Brazil
+Andradas	Brazil
+Anastácio	Brazil
+Anápolis	Brazil
+Amparo	Brazil
+Américo Brasiliense	Brazil
+Americana	Brazil
+Amargosa	Brazil
+Álvares Machado	Brazil
+Almirante Tamandaré	Brazil
+Almenara	Brazil
+Alfenas	Brazil
+Além Paraíba	Brazil
+Alegrete	Brazil
+Alegre	Brazil
+Alagoinhas	Brazil
+Aimorés	Brazil
+Agudos	Brazil
+Águas Vermelhas	Brazil
+Águas de Lindóia	Brazil
+Aguaí	Brazil
+Adamantina	Brazil
+Abaeté	Brazil
+Guaíba	Brazil
+Palmas	Brazil
+Tefé	Brazil
+Tarauacá	Brazil
+Tabatinga	Brazil
+Sena Madureira	Brazil
+São Gabriel da Cachoeira	Brazil
+Rio Branco	Brazil
+Porto Velho	Brazil
+Manaus	Brazil
+Manacapuru	Brazil
+Nassau	Bahamas
+Lucaya	Bahamas
+Freeport	Bahamas
+Thimphu	Bhutan
+Punākha	Bhutan
+Phuntsholing	Bhutan
+Tsirang	Bhutan
+Tonota	Botswana
+Thamaga	Botswana
+Serowe	Botswana
+Selebi-Phikwe	Botswana
+Ramotswa	Botswana
+Francistown	Botswana
+Horad Zhodzina	Belarus
+Zhlobin	Belarus
+Vitebsk	Belarus
+Vilyeyka	Belarus
+Vawkavysk	Belarus
+Svyetlahorsk	Belarus
+Stowbtsy	Belarus
+Smarhon’	Belarus
+Polatsk	Belarus
+Pinsk	Belarus
+Pastavy	Belarus
+Asipovichy	Belarus
+Orsha	Belarus
+Novoye Medvezhino	Belarus
+Navapolatsk	Belarus
+Navahrudak	Belarus
+Minsk	Belarus
+Mazyr	Belarus
+Kobryn	Belarus
+Kalinkavichy	Belarus
+Ivatsevichy	Belarus
+Hrodna	Belarus
+Horki	Belarus
+San Ignacio	Belize
+Orange Walk	Belize
+Belmopan	Belize
+Belize City	Belize
+Abbotsford	Canada
+Airdrie	Canada
+Ajax	Canada
+Alma	Canada
+Amos	Canada
+Anmore	Canada
+Brandon	Canada
+Brant	Canada
+Brantford	Canada
+Brockville	Canada
+Brossard	Canada
+Burlington	Canada
+Burnaby	Canada
+Calgary	Canada
+Coquitlam	Canada
+Corner Brook	Canada
+Cornwall	Canada
+Côte-Saint-Luc	Canada
+Courtenay	Canada
+Grande Prairie	Canada
+Greater Sudbury	Canada
+Greater Napanee	Canada
+Guelph	Canada
+Hamilton	Canada
+Huntsville	Canada
+Joliette	Canada
+Kamloops	Canada
+Kelowna	Canada
+Keswick	Canada
+Kingston	Canada
+Lethbridge	Canada
+Lloydminster	Canada
+London	Canada
+Longueuil	Canada
+Magog	Canada
+Mississauga	Canada
+Moncton	Canada
+Montréal	Canada
+Mont-Royal	Canada
+Niagara Falls	Canada
+Norfolk County	Canada
+North Battleford	Canada
+North Bay	Canada
+North Cowichan	Canada
+North Vancouver	Canada
+North York	Canada
+Oak Bay	Canada
+Oakville	Canada
+Orangeville	Canada
+Orillia	Canada
+Oshawa	Canada
+Ottawa	Canada
+Owen Sound	Canada
+Parksville	Canada
+Pembroke	Canada
+Peterborough	Canada
+Pickering	Canada
+Pitt Meadows	Canada
+Prince Edward	Canada
+Prince George	Canada
+Quinte West	Canada
+Rayside-Balfour	Canada
+Red Deer	Canada
+Regina	Canada
+Sainte-Julie	Canada
+Sainte-Thérèse	Canada
+Saint-Eustache	Canada
+Saint-Hyacinthe	Canada
+Shawinigan	Canada
+Sherbrooke	Canada
+Sherwood Park	Canada
+Sorel-Tracy	Canada
+Spruce Grove	Canada
+St. Albert	Canada
+Toronto	Canada
+Trois-Rivières	Canada
+Truro	Canada
+Val-d'Or	Canada
+Vancouver	Canada
+Victoria	Canada
+Victoriaville	Canada
+Waterloo	Canada
+Welland	Canada
+Windsor	Canada
+Winnipeg	Canada
+Yellowknife	Canada
+Halifax	Canada
+St. John's	Canada
+Québec	Canada
+Lévis	Canada
+Okanagan	Canada
+West Kelowna	Canada
+West Vancouver	Canada
+Willowdale	Canada
+Lower Sacvkille	Canada
+West Island	Cocos Islands
+Yangambi	Democratic Republic of the Congo
+Watsa	Democratic Republic of the Congo
+Luebo	Democratic Republic of the Congo
+Lubao	Democratic Republic of the Congo
+Lodja	Democratic Republic of the Congo
+Lisala	Democratic Republic of the Congo
+Kongolo	Democratic Republic of the Congo
+Kabare	Democratic Republic of the Congo
+Kabalo	Democratic Republic of the Congo
+Isiro	Democratic Republic of the Congo
+Ilebo	Democratic Republic of the Congo
+Goma	Democratic Republic of the Congo
+Bondo	Democratic Republic of the Congo
+Boende	Democratic Republic of the Congo
+Beni	Democratic Republic of the Congo
+Basoko	Democratic Republic of the Congo
+Aketi	Democratic Republic of the Congo
+Lubumbashi	Democratic Republic of the Congo
+Likasi	Democratic Republic of the Congo
+Kikwit	Democratic Republic of the Congo
+Kasongo-Lunda	Democratic Republic of the Congo
+Kasangulu	Democratic Republic of the Congo
+Inongo	Democratic Republic of the Congo
+Gemena	Democratic Republic of the Congo
+Bulungu	Democratic Republic of the Congo
+Nola	Central African Republic
+Mbaïki	Central African Republic
+Kaga Bandoro	Central African Republic
+Damara	Central African Republic
+Kayes	Republic of the Congo
+Impfondo	Republic of the Congo
+Gamboma	Republic of the Congo
+Brazzaville	Republic of the Congo
+Zürich	Switzerland
+Zug	Switzerland
+Yverdon-les-Bains	Switzerland
+Winterthur	Switzerland
+Wil	Switzerland
+Wettingen	Switzerland
+Vevey	Switzerland
+Vernier	Switzerland
+Neuchâtel	Switzerland
+Muttenz	Switzerland
+Montreux	Switzerland
+Monthey	Switzerland
+Grenchen	Switzerland
+Gossau	Switzerland
+Genève	Switzerland
+Fribourg	Switzerland
+Frauenfeld	Switzerland
+Lancy	Switzerland
+Zuénoula	Ivory Coast
+Yamoussoukro	Ivory Coast
+Vavoua	Ivory Coast
+Toumodi	Ivory Coast
+Touba	Ivory Coast
+Tengrela	Ivory Coast
+Tiassalé	Ivory Coast
+Affery	Ivory Coast
+Bangolo	Ivory Coast
+Arrah	Ivory Coast
+Anyama	Ivory Coast
+Akoupé	Ivory Coast
+Tocopilla	Chile
+Temuco	Chile
+Talcahuano	Chile
+Talca	Chile
+Talagante	Chile
+San Vicente de Tagua Tagua	Chile
+San Vicente	Chile
+Santiago	Chile
+Santa Cruz	Chile
+San Javier	Chile
+San Felipe	Chile
+Puerto Montt	Chile
+Puerto Aisén	Chile
+Puente Alto	Chile
+Pucón	Chile
+La Serena	Chile
+Lampa	Chile
+La Ligua	Chile
+La Laja	Chile
+Iquique	Chile
+Illapel	Chile
+Hacienda La Calera	Chile
+Graneros	Chile
+Frutillar	Chile
+Cartagena	Chile
+Cañete	Chile
+Calama	Chile
+Manjo	Cameroon
+Mamfe	Cameroon
+Loum	Cameroon
+Lolodorf	Cameroon
+Limbe	Cameroon
+Lagdo	Cameroon
+Kumbo	Cameroon
+Bafang	Cameroon
+Akonolinga	Cameroon
+Idenao	Cameroon
+Rikaze	China
+Jiuquan	China
+Shache	China
+Qamdo	China
+Nagqu	China
+Lhasa	China
+Laojunmiao	China
+Kashgar	China
+Jiayuguan	China
+Hotan	China
+Dêqên	China
+Zhouzhuang	China
+Zhoukou	China
+Zhoucun	China
+Yuxi	China
+Zhongxing	China
+Zhongshu	China
+Zhicheng	China
+Zhicheng	China
+Zhenzhou	China
+Zhenjiang	China
+Zhaobaoshan	China
+Yingchuan	China
+Yuxia	China
+Kunshan	China
+Yunyang	China
+Yunmeng Chengguanzhen	China
+Jinghong	China
+Pizhou	China
+Yunfu	China
+Yicheng	China
+Yichang	China
+Yibin	China
+Yatou	China
+Yashan	China
+Yanzhou	China
+Yantai	China
+Yanliang	China
+Yangzhou	China
+Yangshuo	China
+Zhangjiagang	China
+Yangquan	China
+Yangliuqing	China
+Xinshi	China
+Xinpu	China
+Xinji	China
+Xining	China
+Shangmei	China
+Xingtai	China
+Ankang	China
+Xindian	China
+Xindi	China
+Feicheng	China
+Sanshui	China
+Ximei	China
+Wacheng	China
+Xihe	China
+Xichang	China
+Xianju	China
+Zhuhai	China
+Wenxing	China
+Xiangxiang	China
+Xiangtan	China
+Xiangyang	China
+Xiangcheng Chengguanzhen	China
+Xi’an	China
+Xiamen	China
+Wuzhou	China
+Wanxian	China
+Wanning	China
+Yinzhu	China
+Wafangdian	China
+Huangshan	China
+Loushanguan	China
+Tongzhou	China
+Fuding	China
+Tongren	China
+Wusong	China
+Songjiang	China
+Sishui	China
+Laixi	China
+Shaoguan	China
+Shancheng	China
+Shanwei	China
+Shantou	China
+Shanting	China
+Shanghai	China
+Shahecheng	China
+Sanya	China
+Sanming	China
+Runing	China
+Fuqing	China
+Jieyang	China
+Rizhao	China
+Renqiu	China
+Quzhou	China
+Puqi	China
+Pumiao	China
+Pulandian	China
+Poyang	China
+Pingyin	China
+Pingyi	China
+Gutao	China
+Pingxiang	China
+Pingshan	China
+Pingnan	China
+Pingliang	China
+Pingdu	China
+Pingdingshan	China
+Pengcheng	China
+Dadukou	China
+Ningyang	China
+Yutan	China
+Ninghai	China
+Ninghai	China
+Ningbo	China
+Neijiang	China
+Nanzhou	China
+Nanzhang Chengguanzhen	China
+Nanyang	China
+Nantong	China
+Mingguang	China
+Minggang	China
+Mianyang	China
+Mentougou	China
+Mengyin	China
+Mengcheng Chengguanzhen	China
+Meizhou	China
+Wuchuan	China
+Majie	China
+Zhijiang	China
+Macheng	China
+Maba	China
+Lüshun	China
+Luqiao	China
+Luoyang	China
+Linyi	China
+Linxia Chengguanzhen	China
+Linxi	China
+Linshui	China
+Linqu	China
+Linqiong	China
+Laibin	China
+Kunyang	China
+Kunming	China
+Kaiyuan	China
+Kaihua	China
+Kaifeng	China
+Juye	China
+Juegang	China
+Jiujiang	China
+Jishui	China
+Qianzhou	China
+Jinzhou	China
+Jinxiang	China
+Jiaozhou	China
+Ningde	China
+Jian’ou	China
+Jiangyan	China
+Jianguang	China
+Jiangmen	China
+Jiangkou	China
+Yangjiang	China
+Ji’an	China
+Guangyuan	China
+Huzhou	China
+Hutang	China
+Haikou	China
+Guye	China
+Guozhen	China
+Guli	China
+Guiyang	China
+Guiren	China
+Guiping	China
+Guilin	China
+Guigang	China
+Gucheng Chengguanzhen	China
+Guangzhou	China
+Guangshui	China
+Gejiu	China
+Gaozhou	China
+Gaoyou	China
+Gaoping	China
+Gaomi	China
+Dongtai	China
+Dongsheng	China
+Dongkan	China
+Donghai	China
+Dongguan	China
+Dongdu	China
+Dali	China
+Chuzhou	China
+Yangchun	China
+Yiwu	China
+Chongqing	China
+Chonglong	China
+Chizhou	China
+Chenzhou	China
+Chengyang	China
+Jiangyin	China
+Chengdu	China
+Chenghua	China
+Chaozhou	China
+Beidao	China
+Beidaihehaibin	China
+Beibei	China
+Dalianwan	China
+Yueyang	China
+Bojia	China
+Zhenlai	China
+Zhengjiatun	China
+Zhaozhou	China
+Zhaoyuan	China
+Zhaodong	China
+Zhangjiakou	China
+Zalantun	China
+Yushu	China
+Youhao	China
+Yingkou	China
+Yilan	China
+Yichun	China
+Yebaishou	China
+Yantongshan	China
+Yanji	China
+Yakeshi	China
+Zhangjiakou Shi Xuanhua Qu	China
+Xiuyan	China
+Suihua	China
+Suifenhe	China
+Songjianghe	China
+Siping	China
+Shunyi	China
+Shulan	China
+Shuangyashan	China
+Shuangyang	China
+Shuangcheng	China
+Shiguai	China
+Shenyang	China
+Shanhetun	China
+Shanhaiguan	China
+Shangzhi	China
+Sanchazi	China
+Salaqi	China
+Mingyue	China
+Mingshui	China
+Meihekou	China
+Manzhouli	China
+Longjing	China
+Longjiang	China
+Longfeng	China
+Liuhe	China
+Lishu	China
+Linkou	China
+Linjiang	China
+Lingyuan	China
+Jinzhou	China
+Lianshan	China
+Jining	China
+Jilin	China
+Jidong	China
+Minzhu	China
+Jiamusi	China
+Gannan	China
+Fuyuan	China
+Fuyu	China
+Fuyu	China
+Fuxin	China
+Fuxin	China
+Changtu	China
+Changping	China
+Changling	China
+Changchun	China
+Chaihe	China
+Boli	China
+Binzhou	China
+Benxi	China
+Beipiao	China
+Bei’an	China
+Bayan	China
+Baotou	China
+Baoshan	China
+Baoqing	China
+Bamiantong	China
+Zipaquirá	Colombia
+Zarzal	Colombia
+Zaragoza	Colombia
+Yumbo	Colombia
+Yopal	Colombia
+Yarumal	Colombia
+Viterbo	Colombia
+Villeta	Colombia
+Villavicencio	Colombia
+Villa del Rosario	Colombia
+Villanueva	Colombia
+Villanueva	Colombia
+Sincelejo	Colombia
+Sincé	Colombia
+Sibaté	Colombia
+Sevilla	Colombia
+Segovia	Colombia
+Santuario	Colombia
+Santo Tomás	Colombia
+Santa Rosa de Cabal	Colombia
+Ríohacha	Colombia
+Repelón	Colombia
+Quimbaya	Colombia
+Quibdó	Colombia
+Puerto Tejada	Colombia
+Puerto Santander	Colombia
+Puerto López	Colombia
+Puerto Colombia	Colombia
+Puerto Boyacá	Colombia
+Medellín	Colombia
+Mariquita	Colombia
+Marinilla	Colombia
+María la Baja	Colombia
+Manzanares	Colombia
+Manizales	Colombia
+Malambo	Colombia
+Málaga	Colombia
+Maicao	Colombia
+Magangué	Colombia
+Madrid	Colombia
+Funza	Colombia
+Fundación	Colombia
+Fresno	Colombia
+Fonseca	Colombia
+Floridablanca	Colombia
+Florida	Colombia
+Florencia	Colombia
+Flandes	Colombia
+Facatativá	Colombia
+Espinal	Colombia
+Envigado	Colombia
+El Retén	Colombia
+El Copey	Colombia
+El Charco	Colombia
+El Cerrito	Colombia
+Chimichagua	Colombia
+Chigorodó	Colombia
+Chía	Colombia
+Chaparral	Colombia
+Cereté	Colombia
+Caucasia	Colombia
+Cartago	Colombia
+Arjona	Colombia
+Ariguaní	Colombia
+Arauca	Colombia
+Aracataca	Colombia
+Apartadó	Colombia
+Anserma	Colombia
+Andes	Colombia
+Andalucía	Colombia
+Aguazul	Colombia
+Aguadas	Colombia
+Aguachica	Colombia
+Acacías	Colombia
+Morales	Colombia
+Carepa	Colombia
+Ciudad Bolívar	Colombia
+Agustín Codazzi	Colombia
+San Diego	Costa Rica
+Quesada	Costa Rica
+Purral	Costa Rica
+Puntarenas	Costa Rica
+Limón	Costa Rica
+Patarrá	Costa Rica
+Paraíso	Costa Rica
+Nicoya	Costa Rica
+Mercedes	Costa Rica
+Venezuela	Cuba
+Varadero	Cuba
+San Germán	Cuba
+Unión de Reyes	Cuba
+Trinidad	Cuba
+Sibanicú	Cuba
+Santo Domingo	Cuba
+Santiago de las Vegas	Cuba
+Perico	Cuba
+Pedro Betancourt	Cuba
+Palmira	Cuba
+Palma Soriano	Cuba
+Nuevitas	Cuba
+Nueva Gerona	Cuba
+Niquero	Cuba
+Jesús Menéndez	Cuba
+Jatibonico	Cuba
+Jaruco	Cuba
+Jagüey Grande	Cuba
+Holguín	Cuba
+Colombia	Cuba
+Ciro Redondo	Cuba
+Cifuentes	Cuba
+Cienfuegos	Cuba
+Ciego de Ávila	Cuba
+Chambas	Cuba
+Cerro	Cuba
+Cauto Cristo	Cuba
+Cárdenas	Cuba
+Campechuela	Cuba
+Camajuaní	Cuba
+Camagüey	Cuba
+Boyeros	Cuba
+Diez de Octubre	Cuba
+Santa Maria	Cape Verde
+Praia	Cape Verde
+Mindelo	Cape Verde
+Cova Figueira	Cape Verde
+Willemstad	Curacao
+Flying Fish Cove	Christmas Island
+Protaras	Cyprus
+Paphos	Cyprus
+Nicosia	Cyprus
+Dvůr Králové nad Labem	Czech Republic
+Znojmo	Czech Republic
+Zlín	Czech Republic
+Žďár nad Sázavou Druhy	Czech Republic
+Žďár nad Sázavou	Czech Republic
+Žatec	Czech Republic
+Vyškov	Czech Republic
+Vsetín	Czech Republic
+Varnsdorf	Czech Republic
+Sokolov	Czech Republic
+Slaný	Czech Republic
+Rožnov pod Radhoštěm	Czech Republic
+Rakovník	Czech Republic
+Prostějov	Czech Republic
+Prosek	Czech Republic
+Příbram	Czech Republic
+Neratovice	Czech Republic
+Náchod	Czech Republic
+Most	Czech Republic
+Modřany	Czech Republic
+Mladá Boleslav	Czech Republic
+Mělník	Czech Republic
+Louny	Czech Republic
+Jindřichův Hradec	Czech Republic
+Jihlava	Czech Republic
+Jičín	Czech Republic
+Jablonec nad Nisou	Czech Republic
+Hranice	Czech Republic
+Hradec Králové	Czech Republic
+Hodonín	Czech Republic
+Havlíčkův Brod	Czech Republic
+Havířov	Czech Republic
+Černý Most	Czech Republic
+Zwickau	Germany
+Zweibrücken	Germany
+Zulpich	Germany
+Zossen	Germany
+Zittau	Germany
+Zirndorf	Germany
+Zerbst	Germany
+Zeitz	Germany
+Zehlendorf	Germany
+Xanten	Germany
+Wurzen	Germany
+Würzburg	Germany
+Würselen	Germany
+Wipperfürth	Germany
+Winterhude	Germany
+Winsen	Germany
+Winnenden	Germany
+Wilnsdorf	Germany
+Wilmersdorf	Germany
+Willich	Germany
+Wilhelmstadt	Germany
+Wilhelmshaven	Germany
+Wildeshausen	Germany
+Wenden	Germany
+Wendelstein	Germany
+Weiterstadt	Germany
+Weißwasser	Germany
+Weißenfels	Germany
+Weißenburg in Bayern	Germany
+Weinstadt-Endersbach	Germany
+Weinheim	Germany
+Weingarten	Germany
+Weimar	Germany
+Walsrode	Germany
+Wallenhorst	Germany
+Waldshut-Tiengen	Germany
+Waldkraiburg	Germany
+Waldkirch	Germany
+Waldbröl	Germany
+Waiblingen	Germany
+Waghäusel	Germany
+Wadgassen	Germany
+Wadern	Germany
+Wachtberg	Germany
+Vreden	Germany
+Völklingen	Germany
+Voerde	Germany
+Vlotho	Germany
+Vilshofen	Germany
+Villingen-Schwenningen	Germany
+Viersen	Germany
+Unterhaching	Germany
+Unterkrozingen	Germany
+Unna	Germany
+Ulm	Germany
+Uelzen	Germany
+Überlingen	Germany
+Übach-Palenberg	Germany
+Tuttlingen	Germany
+Tübingen	Germany
+Trossingen	Germany
+Troisdorf	Germany
+Trier	Germany
+Taufkirchen	Germany
+Syke	Germany
+Sundern	Germany
+Sulzbach-Rosenberg	Germany
+Sulzbach	Germany
+Suhl	Germany
+Stuttgart	Germany
+Stuhr	Germany
+Strausberg	Germany
+Straubing	Germany
+Stralsund	Germany
+Staaken	Germany
+Sprockhövel	Germany
+Springe	Germany
+Speyer	Germany
+Spenge	Germany
+Sonthofen	Germany
+Sonneberg	Germany
+Sondershausen	Germany
+Sömmerda	Germany
+Soltau	Germany
+Solingen	Germany
+Soest	Germany
+Sinzig	Germany
+Sinsheim	Germany
+Singen	Germany
+Schweinfurt	Germany
+Schwedt (Oder)	Germany
+Schwarzenberg	Germany
+Schwanewede	Germany
+Schkeuditz	Germany
+Schiffweiler	Germany
+Schifferstadt	Germany
+Saulgau	Germany
+Sasel	Germany
+Sarstedt	Germany
+Sankt Wendel	Germany
+Sankt Ingbert	Germany
+Rostock	Germany
+Rösrath	Germany
+Rosenheim	Germany
+Ronnenberg	Germany
+Rinteln	Germany
+Rietberg	Germany
+Riesa	Germany
+Recklinghausen	Germany
+Ravensburg	Germany
+Ratingen	Germany
+Rathenow	Germany
+Ratekau	Germany
+Rastede	Germany
+Passau	Germany
+Pasing	Germany
+Parchim	Germany
+Papenburg	Germany
+Pankow	Germany
+Paderborn	Germany
+Oyten	Germany
+Overath	Germany
+Ottweiler	Germany
+Ottobrunn	Germany
+Osterholz-Scharmbeck	Germany
+Osnabrück	Germany
+Oschersleben	Germany
+Oschatz	Germany
+Oranienburg	Germany
+Opladen	Germany
+Olsberg	Germany
+Oberasbach	Germany
+Nürtingen	Germany
+Nürnberg	Germany
+Nümbrecht	Germany
+Nottuln	Germany
+Northeim	Germany
+Nördlingen	Germany
+Nordhorn	Germany
+Nordhausen	Germany
+Norderstedt	Germany
+Neue Neustadt	Germany
+Neuss	Germany
+Neuruppin	Germany
+Neunkirchen	Germany
+Neumünster	Germany
+Neumarkt in der Oberpfalz	Germany
+Munich	Germany
+Müllheim	Germany
+Mülheim (Ruhr)	Germany
+Mühlheim am Main	Germany
+Stuttgart Mühlhausen	Germany
+Meiderich	Germany
+Meerbusch	Germany
+Meerane	Germany
+Meckenheim	Germany
+Mechernich	Germany
+Mayen	Germany
+Marzahn	Germany
+Marsberg	Germany
+Luckenwalde	Germany
+Lübeck	Germany
+Lübbenau	Germany
+Lübbecke	Germany
+Loxstedt	Germany
+Losheim	Germany
+Lörrach	Germany
+Lohr am Main	Germany
+Lehrte	Germany
+Leer	Germany
+Lebach	Germany
+Laupheim	Germany
+Lauf an der Pegnitz	Germany
+Lauchhammer	Germany
+Lankwitz	Germany
+Langenhorn	Germany
+Langenhagen	Germany
+Langenfeld	Germany
+Kaufbeuren	Germany
+Kassel	Germany
+Karow	Germany
+Karlstadt	Germany
+Karlsruhe	Germany
+Karlshorst	Germany
+Karlsfeld	Germany
+Karben	Germany
+Kamp-Lintfort	Germany
+Kamenz	Germany
+Kamen	Germany
+Kaltenkirchen	Germany
+Kaiserslautern	Germany
+Kaarst	Germany
+Jülich	Germany
+Jüchen	Germany
+Hörstel	Germany
+Horb am Neckar	Germany
+Homburg	Germany
+Holzwickede	Germany
+Holzminden	Germany
+Holzkirchen	Germany
+Hohenstein-Ernstthal	Germany
+Hohen Neuendorf	Germany
+Hofheim am Taunus	Germany
+Hemer	Germany
+Helmstedt	Germany
+Hellersdorf	Germany
+Heinsberg	Germany
+Heilbad Heiligenstadt	Germany
+Heiligensee	Germany
+Heiligenhaus	Germany
+Heilbronn	Germany
+Heidenheim an der Brenz	Germany
+Heidenau	Germany
+Heidelberg	Germany
+Heide	Germany
+Hechingen	Germany
+Hattingen	Germany
+Hattersheim	Germany
+Haßloch	Germany
+Gütersloh	Germany
+Güstrow	Germany
+Gunzenhausen	Germany
+Glinde	Germany
+Glauchau	Germany
+Gladbeck	Germany
+Ginsheim-Gustavsburg	Germany
+Gilching	Germany
+Gifhorn	Germany
+Gießen	Germany
+Giengen an der Brenz	Germany
+Gevelsberg	Germany
+Gesundbrunnen	Germany
+Geseke	Germany
+Gescher	Germany
+Gersthofen	Germany
+Germersheim	Germany
+Germering	Germany
+Fürstenwalde	Germany
+Fürstenfeldbruck	Germany
+Fulda	Germany
+Fröndenberg	Germany
+Frohnau	Germany
+Friesoythe	Germany
+Euskirchen	Germany
+Ettlingen	Germany
+Esslingen	Germany
+Essen	Germany
+Espelkamp	Germany
+Eschweiler	Germany
+Eschwege	Germany
+Eschborn	Germany
+Erwitte	Germany
+Erlangen	Germany
+Erkrath	Germany
+Erkelenz	Germany
+Erfurt	Germany
+Erftstadt	Germany
+Ehingen	Germany
+Eggenstein-Leopoldshafen	Germany
+Edewecht	Germany
+Eckernförde	Germany
+Eberswalde	Germany
+Ebersbach an der Fils	Germany
+Eberbach	Germany
+Düsseldorf	Germany
+Düren	Germany
+Dülmen	Germany
+Duisburg	Germany
+Duderstadt	Germany
+Deutz	Germany
+Detmold	Germany
+Dessau	Germany
+Delmenhorst	Germany
+Delitzsch	Germany
+Delbrück	Germany
+Deggendorf	Germany
+Datteln	Germany
+Darmstadt	Germany
+Damme	Germany
+Dahlem	Germany
+Dachau	Germany
+Cuxhaven	Germany
+Crimmitschau	Germany
+Crailsheim	Germany
+Bühl	Germany
+Büdingen	Germany
+Buckow	Germany
+Bückeburg	Germany
+Buchholz in der Nordheide	Germany
+Französisch Buchholz	Germany
+Buchen	Germany
+Bogenhausen	Germany
+Bochum	Germany
+Bocholt	Germany
+Böblingen	Germany
+Bobingen	Germany
+Blomberg	Germany
+Blieskastel	Germany
+Blankenburg	Germany
+Bitterfeld-Wolfen	Germany
+Bingen am Rhein	Germany
+Bietigheim-Bissingen	Germany
+Biesdorf	Germany
+Beckingen	Germany
+Bayreuth	Germany
+Bautzen	Germany
+Baunatal	Germany
+Baumschulenweg	Germany
+Bassum	Germany
+Bamberg	Germany
+Balingen	Germany
+Baiersbronn	Germany
+Baesweiler	Germany
+Bad Zwischenahn	Germany
+Bad Wildungen	Germany
+Bad Waldsee	Germany
+Bad Vilbel	Germany
+Bad Tölz	Germany
+Bad Soden am Taunus	Germany
+Bad Segeberg	Germany
+Bad Schwartau	Germany
+Bad Salzungen	Germany
+Bad Kissingen	Germany
+Bad Honnef	Germany
+Bad Homburg vor der Höhe	Germany
+Bad Hersfeld	Germany
+Bad Harzburg	Germany
+Bad Essen	Germany
+Baden-Baden	Germany
+Bad Dürkheim	Germany
+Annaberg-Buchholz	Germany
+Angermünde	Germany
+Andernach	Germany
+Amberg	Germany
+Alzey	Germany
+Alzenau in Unterfranken	Germany
+Altglienicke	Germany
+Altenburg	Germany
+Altena	Germany
+Altdorf	Germany
+Lauda-Königshofen	Germany
+Filderstadt	Germany
+Ostfildern	Germany
+Rodgau	Germany
+Gropiusstadt	Germany
+Seeheim-Jugenheim	Germany
+Charlottenburg-Nord	Germany
+Mitte	Germany
+Spremberg	Germany
+Rheinstetten	Germany
+Altstadt Sud	Germany
+Altstadt Nord	Germany
+Neuehrenfeld	Germany
+Burg Unter-Falkenstein	Germany
+Neustadt/Nord	Germany
+Neustadt/Süd	Germany
+Kalk	Germany
+Mülheim	Germany
+Gartenstadt	Germany
+Tadjoura	Djibouti
+Obock	Djibouti
+Djibouti	Djibouti
+Ḏânan	Djibouti
+'Ali Sabieh	Djibouti
+Viborg	Denmark
+Vejle	Denmark
+Vanløse	Denmark
+Taastrup	Denmark
+Svendborg	Denmark
+Korsør	Denmark
+Køge	Denmark
+Copenhagen	Denmark
+Kolding	Denmark
+Kalundborg	Denmark
+Ishøj	Denmark
+Hvidovre	Denmark
+Horsens	Denmark
+Hørsholm	Denmark
+Holstebro	Denmark
+Holbæk	Denmark
+Århus	Denmark
+Aalborg	Denmark
+Albertslund	Denmark
+Aabenraa	Denmark
+Roseau	Dominica
+Villa Francisca	Dominican Republic
+Villa Consuelo	Dominican Republic
+Villa Bisonó	Dominican Republic
+Río Grande	Dominican Republic
+Quisqueya	Dominican Republic
+Punta Cana	Dominican Republic
+Neiba	Dominican Republic
+Nagua	Dominican Republic
+Monte Plata	Dominican Republic
+Moca	Dominican Republic
+Mao	Dominican Republic
+Las Matas de Farfán	Dominican Republic
+Boumerdas	Algeria
+Zeribet el Oued	Algeria
+Zeralda	Algeria
+Zemoura	Algeria
+Touggourt	Algeria
+Tolga	Algeria
+Tlemcen	Algeria
+Tizi Rached	Algeria
+Tizi Ouzou	Algeria
+Tizi-n-Tleta	Algeria
+Tizi Gheniff	Algeria
+Souk Ahras	Algeria
+Sougueur	Algeria
+Skikda	Algeria
+Sig	Algeria
+Sidi Okba	Algeria
+Sidi Moussa	Algeria
+Sidi Mérouane	Algeria
+Sidi Khaled	Algeria
+Sidi ech Chahmi	Algeria
+Sidi Bel Abbès	Algeria
+Sidi Amrane	Algeria
+Ouled Mimoun	Algeria
+Oued Sly	Algeria
+Oued Rhiou	Algeria
+Oued Fodda	Algeria
+Oued el Alleug	Algeria
+Oued el Abtal	Algeria
+Ouargla	Algeria
+Oran	Algeria
+Nedroma	Algeria
+Laghouat	Algeria
+Ksar el Boukhari	Algeria
+Ksar Chellala	Algeria
+Kolea	Algeria
+Khenchela	Algeria
+Khemis Miliana	Algeria
+El Hadjira	Algeria
+El Hadjar	Algeria
+El Eulma	Algeria
+El Bayadh	Algeria
+El Attaf	Algeria
+Chlef	Algeria
+El Aouinet	Algeria
+El Amria	Algeria
+El Affroun	Algeria
+El Achir	Algeria
+El Abiodh Sidi Cheikh	Algeria
+El Abadia	Algeria
+Ech Chettia	Algeria
+Drean	Algeria
+Draa el Mizan	Algeria
+Draa Ben Khedda	Algeria
+Douera	Algeria
+Brezina	Algeria
+Bou Tlelis	Algeria
+Boumahra Ahmed	Algeria
+Boukadir	Algeria
+Bou Ismaïl	Algeria
+Bouïra	Algeria
+Bouinan	Algeria
+Bensekrane	Algeria
+Ben Mehidi	Algeria
+Beni Saf	Algeria
+Beni Mester	Algeria
+Beni Mered	Algeria
+Beni Douala	Algeria
+Beni Amrane	Algeria
+Bejaïa	Algeria
+Béchar	Algeria
+Batna	Algeria
+Barika	Algeria
+Barbacha	Algeria
+Baraki	Algeria
+Bab Ezzouar	Algeria
+Azzaba	Algeria
+Azazga	Algeria
+Arris	Algeria
+Arhribs	Algeria
+Arbatache	Algeria
+Aoulef	Algeria
+Annaba	Algeria
+’Aïn Benian	Algeria
+Aïn Beïda	Algeria
+Aïn Arnat	Algeria
+’Aïn Abid	Algeria
+Aflou	Algeria
+Adrar	Algeria
+Abou el Hassan	Algeria
+BABOR - VILLE	Algeria
+Zamora	Ecuador
+Yaguachi Nuevo	Ecuador
+Vinces	Ecuador
+Ventanas	Ecuador
+Piñas	Ecuador
+Pelileo	Ecuador
+Pedro Carbo	Ecuador
+Pasaje	Ecuador
+Otavalo	Ecuador
+Boca Suno	Ecuador
+Balzar	Ecuador
+Bahía de Caráquez	Ecuador
+Shirbīn	Egypt
+Shibīn al Qanāţir	Egypt
+Shibīn al Kawm	Egypt
+Samannūd	Egypt
+Samālūţ	Egypt
+Rosetta	Egypt
+Ras Gharib	Egypt
+Quwaysinā	Egypt
+Quţūr	Egypt
+Kousa	Egypt
+Qinā	Egypt
+Qalyūb	Egypt
+Naj‘ Ḩammādī	Egypt
+Minyat an Naşr	Egypt
+Minūf	Egypt
+Maţāy	Egypt
+Mashtūl as Sūq	Egypt
+Fuwwah	Egypt
+Farshūţ	Egypt
+Fāraskūr	Egypt
+Fāqūs	Egypt
+Damietta	Egypt
+Diyarb Najm	Egypt
+Disūq	Egypt
+Dishnā	Egypt
+Aswan	Egypt
+Suez	Egypt
+Aş Şaff	Egypt
+Al Fashn	Egypt
+Al Bawīţī	Egypt
+Al Balyanā	Egypt
+Al Bājūr	Egypt
+Al Badārī	Egypt
+Al ‘Ayyāţ	Egypt
+Arish	Egypt
+Akhmīm	Egypt
+Ajā	Egypt
+Ad Dilinjāt	Egypt
+Abū Tīj	Egypt
+Abū Qurqāş	Egypt
+Abū Kabīr	Egypt
+Abū al Maţāmīr	Egypt
+Abnūb	Egypt
+Az Zarqā	Egypt
+Ain Sukhna	Egypt
+Smara	Western Sahara
+Laâyoune / El Aaiún	Western Sahara
+Dakhla	Western Sahara
+Massawa	Eritrea
+Mendefera	Eritrea
+Zubia	Spain
+Zafra	Spain
+Yecla	Spain
+Villena	Spain
+Villarrobledo	Spain
+Vila-real	Spain
+Torre-Pacheco	Spain
+Torrent	Spain
+Torremolinos	Spain
+Tomelloso	Spain
+Tomares	Spain
+Toledo	Spain
+Tías	Spain
+Telde	Spain
+Teguise	Spain
+Santa Brígida	Spain
+San Roque	Spain
+San Pedro del Pinatar	Spain
+San Pedro de Alcántara	Spain
+San Miguel De Abona	Spain
+Sanlúcar de Barrameda	Spain
+San Juan de Aznalfarache	Spain
+Realejo Alto	Spain
+Puçol	Spain
+Puerto Real	Spain
+Puertollano	Spain
+Navalmoral de la Mata	Spain
+Murcia	Spain
+Mula	Spain
+Muchamiel	Spain
+Motril	Spain
+Morón de la Frontera	Spain
+Montilla	Spain
+Montijo	Spain
+Moncada	Spain
+Molina de Segura	Spain
+Moguer	Spain
+Mogán	Spain
+Mislata	Spain
+Mijas	Spain
+Mérida	Spain
+Melilla	Spain
+Mazarrón	Spain
+Llucmajor	Spain
+Llíria	Spain
+Linares	Spain
+Lepe	Spain
+Lebrija	Spain
+La Unión	Spain
+Las Torres de Cotillas	Spain
+Las Palmas de Gran Canaria	Spain
+La Solana	Spain
+Granadilla de Abona	Spain
+Granada	Spain
+Gandia	Spain
+Gáldar	Spain
+Fuengirola	Spain
+Felanitx	Spain
+Estepona	Spain
+El Viso del Alcor	Spain
+El Puerto de Santa María	Spain
+El Ejido	Spain
+Elda	Spain
+Elche	Spain
+El Arahal	Spain
+Écija	Spain
+Dos Hermanas	Spain
+Don Benito	Spain
+Denia	Spain
+Daimiel	Spain
+Cullera	Spain
+Camas	Spain
+Calvià	Spain
+Calp	Spain
+Callosa de Segura	Spain
+Cadiz	Spain
+Cáceres	Spain
+Cabra	Spain
+Burriana	Spain
+Arona	Spain
+Armilla	Spain
+Arcos de la Frontera	Spain
+Archena	Spain
+Antequera	Spain
+Andújar	Spain
+Altea	Spain
+Almuñécar	Spain
+Almoradí	Spain
+Almonte	Spain
+Almería	Spain
+Almendralejo	Spain
+Albolote	Spain
+Albal	Spain
+Albacete	Spain
+Alaquàs	Spain
+Agüimes	Spain
+Águilas	Spain
+Adra	Spain
+Adeje	Spain
+Groa de Murviedro	Spain
+Zarautz	Spain
+Zaragoza	Spain
+Zamora	Spain
+Viveiro	Spain
+Gasteiz / Vitoria	Spain
+Vinaròs	Spain
+Valls	Spain
+Valladolid	Spain
+Valdemoro	Spain
+Rivas-Vaciamadrid	Spain
+Utebo	Spain
+Tui	Spain
+Tudela	Spain
+Tortosa	Spain
+Torrelodones	Spain
+Santurtzi	Spain
+Sant Just Desvern	Spain
+Santiago de Compostela	Spain
+Santa Perpètua de Mogoda	Spain
+Santander	Spain
+Barberà del Vallès	Spain
+Santa Coloma de Gramenet	Spain
+San Sebastián de los Reyes	Spain
+Donostia / San Sebastián	Spain
+Sant Quirze del Vallès	Spain
+Sant Pere de Ribes	Spain
+San Martín de la Vega	Spain
+Rubí	Spain
+Roses	Spain
+Ripollet	Spain
+Ribeira	Spain
+Reus	Spain
+Errenteria	Spain
+Redondela	Spain
+Puente de Vallecas	Spain
+Ponteareas	Spain
+Premià de Mar	Spain
+Pozuelo de Alarcón	Spain
+Poio	Spain
+Portugalete	Spain
+Porriño	Spain
+Pontevedra	Spain
+Ponferrada	Spain
+Plasencia	Spain
+Pinto	Spain
+Pineda de Mar	Spain
+Parla	Spain
+Parets del Vallès	Spain
+Pamplona	Spain
+Palencia	Spain
+Palamós	Spain
+Mollet del Vallès	Spain
+Molins de Rei	Spain
+Moaña	Spain
+Miranda de Ebro	Spain
+Mieres	Spain
+Mejorada del Campo	Spain
+Medina del Campo	Spain
+Mataró	Spain
+El Masnou	Spain
+Martorell	Spain
+Marín	Spain
+Manresa	Spain
+Manlleu	Spain
+Malgrat de Mar	Spain
+Majadahonda	Spain
+Madrid	Spain
+Lugo	Spain
+Logroño	Spain
+Lloret de Mar	Spain
+Laudio / Llodio	Spain
+Lleida	Spain
+León	Spain
+Leioa	Spain
+Leganés	Spain
+Las Rozas de Madrid	Spain
+Fuenlabrada	Spain
+Figueras	Spain
+Figueres	Spain
+Esplugues de Llobregat	Spain
+Esparreguera	Spain
+Ermua	Spain
+Erandio	Spain
+El Prat de Llobregat	Spain
+Ferrol	Spain
+El Astillero	Spain
+Ejea de los Caballeros	Spain
+Eibar	Spain
+Durango	Spain
+Culleredo	Spain
+Cuenca	Spain
+Coslada	Spain
+Cornellà de Llobregat	Spain
+Colmenar Viejo	Spain
+Collado-Villalba	Spain
+Ciudad Lineal	Spain
+Ciutadella	Spain
+Ciempozuelos	Spain
+Chamartín	Spain
+Castro-Urdiales	Spain
+Castelldefels	Spain
+Castellar del Vallès	Spain
+Cardedeu	Spain
+Alcalá de Henares	Spain
+Nou Barris	Spain
+Pinar de Chamartín	Spain
+Playa del Ingles	Spain
+Puerto del Carmen	Spain
+Ceuta	Spain
+Moncloa-Aravaca	Spain
+Eixample	Spain
+les Corts	Spain
+Sarrià-Sant Gervasi	Spain
+Horta-Guinardó	Spain
+Sants-Montjuïc	Spain
+Sant Martí	Spain
+Ciutat Vella	Spain
+Arganzuela	Spain
+San Blas	Spain
+Latina	Spain
+Usera	Spain
+Salamanca	Spain
+Chamberí	Spain
+Carabanchel	Spain
+Yirga ‘Alem	Ethiopia
+Yabēlo	Ethiopia
+Werota	Ethiopia
+Wenjī	Ethiopia
+Tippi	Ethiopia
+Shashemenē	Ethiopia
+Shambu	Ethiopia
+Shakīso	Ethiopia
+Sebeta	Ethiopia
+Robīt	Ethiopia
+Nejo	Ethiopia
+Gelemso	Ethiopia
+Gebre Guracha	Ethiopia
+Gambēla	Ethiopia
+Finote Selam	Ethiopia
+Fichē	Ethiopia
+Felege Neway	Ethiopia
+Dubti	Ethiopia
+Dodola	Ethiopia
+Dire Dawa	Ethiopia
+Dīla	Ethiopia
+Desē	Ethiopia
+Dembī Dolo	Ethiopia
+Bishoftu	Ethiopia
+Debre Tabor	Ethiopia
+Debre Mark’os	Ethiopia
+Debre Birhan	Ethiopia
+Sibbo	Finland
+Seinäjoki	Finland
+Savonlinna	Finland
+Salo	Finland
+Rovaniemi	Finland
+Riihimäki	Finland
+Rauma	Finland
+Raisio	Finland
+Raahe	Finland
+Pori	Finland
+Pirkkala	Finland
+Oulu	Finland
+Nurmijärvi	Finland
+Nokia	Finland
+Mikkeli	Finland
+Mäntsälä	Finland
+Jyväskylä	Finland
+Joensuu	Finland
+Järvenpää	Finland
+Janakkala	Finland
+Jämsä	Finland
+Jakobstad	Finland
+Labasa	Fiji
+Stanley	Falkland Islands
+Palikir - National Government Center	Micronesia
+Tórshavn	Faroe Islands
+Yerres	France
+Wittenheim	France
+Wattrelos	France
+Wasquehal	France
+Voiron	France
+Vitry-sur-Seine	France
+Vienne	France
+Vichy	France
+Vesoul	France
+Vertou	France
+Versailles	France
+Verrières-le-Buisson	France
+Vernon	France
+Verneuil-sur-Seine	France
+Verdun	France
+Vénissieux	France
+Vendôme	France
+Vence	France
+Vélizy-Villacoublay	France
+Vauréal	France
+Vaulx-en-Velin	France
+Vanves	France
+Vannes	France
+Vandœuvre-lès-Nancy	France
+Sin-le-Noble	France
+Seynod	France
+Sèvres	France
+Sevran	France
+Sète	France
+Sens	France
+Senlis	France
+Sélestat	France
+Sedan	France
+Schiltigheim	France
+Sceaux	France
+Savigny-sur-Orge	France
+Savigny-le-Temple	France
+Saumur	France
+Sartrouville	France
+Sarreguemines	France
+Sarcelles	France
+Saran	France
+Sannois	France
+Sanary-sur-Mer	France
+Salon-de-Provence	France
+Sallanches	France
+Saint-Sébastien-sur-Loire	France
+Saint-Raphaël	France
+Saint-Quentin	France
+Saint-Priest	France
+Saint-Pol-sur-Mer	France
+Saint-Pierre-des-Corps	France
+Saint-Ouen-l’Aumône	France
+Saint-Ouen	France
+Saint-Omer	France
+Saint-Étienne-du-Rouvray	France
+Saint-Étienne	France
+Saintes	France
+Sainte-Geneviève-des-Bois	France
+Sainte-Foy-lès-Lyon	France
+Saint-Égrève	France
+Saint-Dizier	France
+Saint-Dié-des-Vosges	France
+Saint-Denis	France
+Saint-Cyr-sur-Loire	France
+Saint-Cyr-l’École	France
+Saint-Cloud	France
+Saint-Chamond	France
+Saint-Brieuc	France
+Saint-Avold	France
+Saint-Avertin	France
+Saint-Amand-les-Eaux	France
+Rueil-Malmaison	France
+Royan	France
+Rouen	France
+Roubaix	France
+Rosny-sous-Bois	France
+Ronchin	France
+Romorantin-Lanthenay	France
+Romans-sur-Isère	France
+Romainville	France
+Roissy-en-Brie	France
+Rodez	France
+Rochefort	France
+Pierrefitte-sur-Seine	France
+Pessac	France
+Pertuis	France
+Perpignan	France
+Périgueux	France
+Pau	France
+Paris	France
+Pantin	France
+Pamiers	France
+Palaiseau	France
+Ozoir-la-Ferrière	France
+Niort	France
+Nîmes	France
+Nice	France
+Nevers	France
+Neuilly-sur-Seine	France
+Neuilly-sur-Marne	France
+Neuilly-Plaisance	France
+Narbonne	France
+Nantes	France
+Nanterre	France
+Nancy	France
+Muret	France
+Mulhouse	France
+Moulins	France
+Mougins	France
+Morsang-sur-Orge	France
+Morlaix	France
+Mont-Saint-Aignan	France
+Montrouge	France
+Montreuil	France
+Montpellier	France
+Montmorency	France
+Montluçon	France
+Montivilliers	France
+Montigny-lès-Metz	France
+Montigny-lès-Cormeilles	France
+Montigny-le-Bretonneux	France
+Montgeron	France
+Montfermeil	France
+Montesson	France
+Montereau-Fault-Yonne	France
+Montélimar	France
+Mont-de-Marsan	France
+Montceau-les-Mines	France
+Montbrison	France
+Montbéliard	France
+Montauban	France
+Montargis	France
+Mons-en-Barœul	France
+Moissy-Cramayel	France
+Mitry-Mory	France
+Miramas	France
+Millau	France
+Meyzieu	France
+Meylan	France
+Meudon	France
+Metz	France
+Mérignac	France
+Menton	France
+Melun	France
+Meaux	France
+Mayenne	France
+Maurepas	France
+Mauguio	France
+Maubeuge	France
+Massy	France
+Martigues	France
+Marseille	France
+Marmande	France
+Marly-le-Roi	France
+Marignane	France
+Marcq-en-Barœul	France
+Mantes-la-Ville	France
+Mantes-la-Jolie	France
+Manosque	France
+Mandelieu-la-Napoule	France
+Malakoff	France
+Maisons-Laffitte	France
+Maisons-Alfort	France
+Mâcon	France
+Lyon	France
+Lunéville	France
+Lunel	France
+Lucé	France
+Louviers	France
+Lourdes	France
+Lormont	France
+Lorient	France
+Loos	France
+Lons-le-Saunier	France
+Longjumeau	France
+Lomme	France
+Lognes	France
+Livry-Gargan	France
+L’Isle-sur-la-Sorgue	France
+Lisieux	France
+Lingolsheim	France
+Limoges	France
+Limeil-Brévannes	France
+Limay	France
+Lille	France
+Liévin	France
+Lens	France
+Le Mée-sur-Seine	France
+Le Mans	France
+Le Kremlin-Bicêtre	France
+Le Havre	France
+Le Grand-Quevilly	France
+Le Creusot	France
+Le Chesnay	France
+Le Cannet	France
+Le Bouscat	France
+Le Blanc-Mesnil	France
+Laxou	France
+La Valette-du-Var	France
+Laval	France
+Lattes	France
+La Teste-de-Buch	France
+La Seyne-sur-Mer	France
+La Roche-sur-Yon	France
+La Rochelle	France
+Laon	France
+Lannion	France
+Lanester	France
+Landerneau	France
+Lambersart	France
+La Madeleine	France
+Lagny-sur-Marne	France
+La Garenne-Colombes	France
+La Garde	France
+La Flèche	France
+La Crau	France
+La Courneuve	France
+La Ciotat	France
+La Chapelle-sur-Erdre	France
+La Celle-Saint-Cloud	France
+Yutz	France
+Haubourdin	France
+Halluin	France
+Haguenau	France
+Guyancourt	France
+Gujan-Mestras	France
+Guéret	France
+Guérande	France
+Grigny	France
+Grenoble	France
+Grasse	France
+Grande-Synthe	France
+Gradignan	France
+Goussainville	France
+Gonesse	France
+Givors	France
+Gif-sur-Yvette	France
+Gien	France
+Gentilly	France
+Gennevilliers	France
+Garges-lès-Gonesse	France
+Gardanne	France
+Garches	France
+Gap	France
+Gagny	France
+Frontignan	France
+Fresnes	France
+Fréjus	France
+Franconville	France
+Fougères	France
+Fos-sur-Mer	France
+Forbach	France
+Fontenay-sous-Bois	France
+Fontenay-le-Comte	France
+Fontenay-aux-Roses	France
+Épinal	France
+Épernay	France
+Elbeuf	France
+Élancourt	France
+Écully	France
+Échirolles	France
+Eaubonne	France
+Dunkerque	France
+Dreux	France
+Draveil	France
+Drancy	France
+Draguignan	France
+Douarnenez	France
+Douai	France
+Domont	France
+Dole	France
+Dijon	France
+Digne-les-Bains	France
+Dieppe	France
+Deuil-la-Barre	France
+Denain	France
+Décines-Charpieu	France
+Colombes	France
+Colmar	France
+Cognac	France
+Cluses	France
+Clichy-sous-Bois	France
+Clichy	France
+Clermont-Ferrand	France
+Clamart	France
+Cholet	France
+Choisy-le-Roi	France
+Chilly-Mazarin	France
+Chevilly-Larue	France
+Cherbourg-Octeville	France
+Chenôve	France
+Chennevières-sur-Marne	France
+Chelles	France
+Chaville	France
+Chaumont	France
+Chatou	France
+Châtillon	France
+Châtenay-Malabry	France
+Châtellerault	France
+Château-Thierry	France
+Châteauroux	France
+Carpentras	France
+Carcassonne	France
+Canteleu	France
+Cannes	France
+Cambrai	France
+Caluire-et-Cuire	France
+Calais	France
+Cahors	France
+Cagnes-sur-Mer	France
+Caen	France
+Cachan	France
+Bry-sur-Marne	France
+Brunoy	France
+Bruay-la-Buissière	France
+Bron	France
+Brive-la-Gaillarde	France
+Brignoles	France
+Brie-Comte-Robert	France
+Brétigny-sur-Orge	France
+Brest	France
+Bressuire	France
+Bourgoin	France
+Bourg-lès-Valence	France
+Bourg-la-Reine	France
+Bourges	France
+Bourg-en-Bresse	France
+Bastia	France
+Bar-le-Duc	France
+Balma	France
+Bagnols-sur-Cèze	France
+Bagnolet	France
+Bagneux	France
+Avon	France
+Avion	France
+Avignon	France
+Auxerre	France
+Autun	France
+Aurillac	France
+Aulnay-sous-Bois	France
+Audincourt	France
+Auch	France
+Aubervilliers	France
+Aubagne	France
+Athis-Mons	France
+Asnières-sur-Seine	France
+Arras	France
+Armentières	France
+Arles	France
+Argenteuil	France
+Argentan	France
+Arcueil	France
+Antony	France
+Antibes	France
+Annonay	France
+Annemasse	France
+Annecy-le-Vieux	France
+Annecy	France
+Angoulême	France
+Anglet	France
+Angers	France
+Amiens	France
+Allauch	France
+Alfortville	France
+Alès	France
+Marseille 08	France
+Marseille 10	France
+Marseille 09	France
+Marseille 11	France
+Marseille 12	France
+Marseille 13	France
+Marseille 14	France
+Marseille 15	France
+Marseille 16	France
+La Defense	France
+Saint-Quentin-en-Yvelines	France
+Cergy-Pontoise	France
+Tchibanga	Gabon
+Port-Gentil	Gabon
+Oyem	Gabon
+Mouila	Gabon
+Moanda	Gabon
+Libreville	Gabon
+Lambaréné	Gabon
+Koulamoutou	Gabon
+Franceville	Gabon
+York	United Kingdom
+Yeovil	United Kingdom
+Yeadon	United Kingdom
+Yate	United Kingdom
+Wrexham	United Kingdom
+Worthing	United Kingdom
+Worksop	United Kingdom
+Workington	United Kingdom
+Whitstable	United Kingdom
+Whitley Bay	United Kingdom
+Whitehaven	United Kingdom
+Whitefield	United Kingdom
+Whickham	United Kingdom
+Weymouth	United Kingdom
+Weybridge	United Kingdom
+Weston-super-Mare	United Kingdom
+West Molesey	United Kingdom
+Westhoughton	United Kingdom
+West Bromwich	United Kingdom
+West Bridgford	United Kingdom
+Welwyn Garden City	United Kingdom
+Wellington	United Kingdom
+Wellingborough	United Kingdom
+Welling	United Kingdom
+Wednesfield	United Kingdom
+Stockton-on-Tees	United Kingdom
+Stockport	United Kingdom
+Stirling	United Kingdom
+Stevenage	United Kingdom
+Staveley	United Kingdom
+Stamford	United Kingdom
+Stalybridge	United Kingdom
+Staines	United Kingdom
+Stafford	United Kingdom
+Spennymoor	United Kingdom
+Spalding	United Kingdom
+South Shields	United Kingdom
+Southsea	United Kingdom
+Southport	United Kingdom
+South Ockendon	United Kingdom
+Southend-on-Sea	United Kingdom
+South Elmsall	United Kingdom
+South Benfleet	United Kingdom
+Southampton	United Kingdom
+Southall	United Kingdom
+Solihull	United Kingdom
+Slough	United Kingdom
+Sleaford	United Kingdom
+Skelmersdale	United Kingdom
+Skegness	United Kingdom
+Sittingbourne	United Kingdom
+Shrewsbury	United Kingdom
+Shoreham-by-Sea	United Kingdom
+Shoreham	United Kingdom
+Shipley	United Kingdom
+Sheffield	United Kingdom
+Sevenoaks	United Kingdom
+Selby	United Kingdom
+Seaham	United Kingdom
+Seaford	United Kingdom
+Runcorn	United Kingdom
+Ruislip	United Kingdom
+Rugeley	United Kingdom
+Rugby	United Kingdom
+Royton	United Kingdom
+Royal Tunbridge Wells	United Kingdom
+Rottingdean	United Kingdom
+Rotherham	United Kingdom
+Romsey	United Kingdom
+Rochford	United Kingdom
+Rochester	United Kingdom
+Rochdale	United Kingdom
+Prestwich	United Kingdom
+Preston	United Kingdom
+Prestatyn	United Kingdom
+Prescot	United Kingdom
+Poulton le Fylde	United Kingdom
+Potters Bar	United Kingdom
+Portsmouth	United Kingdom
+Portslade	United Kingdom
+Portishead	United Kingdom
+Porthcawl	United Kingdom
+Port Glasgow	United Kingdom
+Portadown	United Kingdom
+Poole	United Kingdom
+Pontypridd	United Kingdom
+Pontypool	United Kingdom
+Pontefract	United Kingdom
+Polmont	United Kingdom
+Plymstock	United Kingdom
+Plymouth	United Kingdom
+Pitsea	United Kingdom
+Pinner	United Kingdom
+Peterlee	United Kingdom
+Peterhead	United Kingdom
+Peterborough	United Kingdom
+Perth	United Kingdom
+Penzance	United Kingdom
+Penicuik	United Kingdom
+Penarth	United Kingdom
+Paisley	United Kingdom
+Paignton	United Kingdom
+Oxford	United Kingdom
+Oswestry	United Kingdom
+Ossett	United Kingdom
+Orpington	United Kingdom
+Ormskirk	United Kingdom
+Omagh	United Kingdom
+Oldham	United Kingdom
+Oadby	United Kingdom
+Nuneaton	United Kingdom
+Nottingham	United Kingdom
+Norwich	United Kingdom
+Northwich	United Kingdom
+North Shields	United Kingdom
+Northolt	United Kingdom
+Lancing	United Kingdom
+Northampton	United Kingdom
+Northallerton	United Kingdom
+Newtownards	United Kingdom
+Newtownabbey	United Kingdom
+Musselburgh	United Kingdom
+Motherwell	United Kingdom
+Morley	United Kingdom
+Moreton	United Kingdom
+Morecambe	United Kingdom
+Mitcham	United Kingdom
+Mirfield	United Kingdom
+Milton Keynes	United Kingdom
+Middleton	United Kingdom
+Middlesbrough	United Kingdom
+Mexborough	United Kingdom
+Merthyr Tydfil	United Kingdom
+Melton Mowbray	United Kingdom
+Marple	United Kingdom
+Long Eaton	United Kingdom
+Londonderry County Borough	United Kingdom
+Derry	United Kingdom
+City of London	United Kingdom
+London	United Kingdom
+Lofthouse	United Kingdom
+Llanelli	United Kingdom
+Llandudno	United Kingdom
+Livingston	United Kingdom
+Liverpool	United Kingdom
+Littlehampton	United Kingdom
+Litherland	United Kingdom
+Lisburn	United Kingdom
+Lincoln	United Kingdom
+Lichfield	United Kingdom
+Leyland	United Kingdom
+Lewes	United Kingdom
+Letchworth	United Kingdom
+Leighton Buzzard	United Kingdom
+Leigh	United Kingdom
+Leicester	United Kingdom
+Islington	United Kingdom
+Isleworth	United Kingdom
+Irvine	United Kingdom
+Coity	United Kingdom
+Cobham	United Kingdom
+Coatbridge	United Kingdom
+Coalville	United Kingdom
+Clydebank	United Kingdom
+Clydach	United Kingdom
+Clitheroe	United Kingdom
+Clevedon	United Kingdom
+Cleethorpes	United Kingdom
+Cleckheaton	United Kingdom
+Clacton-on-Sea	United Kingdom
+Cirencester	United Kingdom
+Christchurch	United Kingdom
+Chorley	United Kingdom
+Chislehurst	United Kingdom
+Törökszentmiklós	Hungary
+Tiszaújváros	Hungary
+Szolnok	Hungary
+Szentes	Hungary
+Szeged	Hungary
+Szarvas	Hungary
+Sátoraljaújhely	Hungary
+Püspökladány	Hungary
+Ózd	Hungary
+Orosháza	Hungary
+Nyíregyháza	Hungary
+Miskolc	Hungary
+Mezőtúr	Hungary
+Mezőkövesd	Hungary
+Mátészalka	Hungary
+Makó	Hungary
+Kisvárda	Hungary
+Kazincbarcika	Hungary
+Karcag	Hungary
+Hódmezővásárhely	Hungary
+Hajdúszoboszló	Hungary
+Hajdúnánás	Hungary
+Hajdúböszörmény	Hungary
+Gyula	Hungary
+Gyomaendrőd	Hungary
+Eger	Hungary
+Debrecen	Hungary
+Csongrád	Hungary
+Berettyóújfalu	Hungary
+Békéscsaba	Hungary
+Békés	Hungary
+Balmazújváros	Hungary
+Abony	Hungary
+Zalaegerszeg	Hungary
+Veszprém	Hungary
+Vecsés	Hungary
+Várpalota	Hungary
+Vác	Hungary
+Tatabánya	Hungary
+Tata	Hungary
+Tapolca	Hungary
+Szombathely	Hungary
+Szigetszentmiklós	Hungary
+Szentendre	Hungary
+Szekszárd	Hungary
+Székesfehérvár	Hungary
+Százhalombatta	Hungary
+Sopron	Hungary
+Siófok	Hungary
+Sárvár	Hungary
+Salgótarján	Hungary
+Pécs	Hungary
+Parádsasvár	Hungary
+Pápa	Hungary
+Paks	Hungary
+Oroszlány	Hungary
+Nagykőrös	Hungary
+Nagykanizsa	Hungary
+Mosonmagyaróvár	Hungary
+Monor	Hungary
+Mohács	Hungary
+Komló	Hungary
+Komárom	Hungary
+Kiskunhalas	Hungary
+Kiskunfélegyháza	Hungary
+Kiskőrös	Hungary
+Keszthely	Hungary
+Kecskemét	Hungary
+Kaposvár	Hungary
+Kalocsa	Hungary
+Jászberény	Hungary
+Hatvan	Hungary
+Győr	Hungary
+Gyöngyös	Hungary
+Gyál	Hungary
+Gödöllő	Hungary
+Göd	Hungary
+Fót	Hungary
+Esztergom	Hungary
+Érd	Hungary
+Dunaújváros	Hungary
+Dunakeszi	Hungary
+Dunaharaszti	Hungary
+Dombóvár	Hungary
+Dabas	Hungary
+Cegléd	Hungary
+Budapest	Hungary
+Budaörs	Hungary
+Balassagyarmat	Hungary
+Baja	Hungary
+Ajka	Hungary
